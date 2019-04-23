@@ -1,0 +1,28 @@
+form {
+	margin-bottom: 0;
+}
+
+#autocomplete {
+	display: none;
+	padding-left: 70px;
+	border: 1px solid black;
+	box-shadow: 2px 2px 2px black;
+}
+
+.auto-suggestion {
+	cursor: pointer;
+}
+
+#correct-word {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#did-you-mean {
+	padding: 10px 0 0 0;
+}
+
+#results-num{
+	padding: 10px 0 0 0;
+}
